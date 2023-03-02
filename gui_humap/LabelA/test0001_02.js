@@ -1,1 +1,1 @@
-const load_textA = "bus";
+const load_textA_02 = "bus";

@@ -1,1 +1,1 @@
-const load_textA = "legs";
+const load_textA_01 = "legs";
